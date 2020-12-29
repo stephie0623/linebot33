@@ -1,0 +1,15 @@
+.content {
+    margin-top: 150px;
+    font-family: "microsoft yahei";
+}
+
+p {
+    font-size: 24px;
+    color: #32CD32
+}
+
+.back p {
+    font-size: 20px;
+    color: rgba(228, 117, 13, 0.897);
+    font-weight: bold;
+}
